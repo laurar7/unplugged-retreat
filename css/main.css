@@ -27,7 +27,7 @@ html {
  */
 
 ::-moz-selection {
-  background: black;
+  background: #b3d4fc;
   text-shadow: none;
 }
 
